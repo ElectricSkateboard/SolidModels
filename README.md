@@ -4,7 +4,8 @@ Contains 3d models for motor mount, gears etc.
 # 3D solid models
 * Motor mount : http://a360.co/2og8PKo
 * Anti-spark plug : http://a360.co/2nmeXw7
-* Wheel gear with 36 teeth : http://a360.co/2ogt8qT
+* Wheel pulley gear with 36 teeth : http://a360.co/2ogt8qT
+* Motor pulley gear : https://github.com/ElectricSkateboard/SolidModels/blob/master/Pulley_T-MXL-XL-HTD-GT2_N-tooth.scad
 * Retainer for wheel gear : http://a360.co/2ooiXxA
 
 # Parts
