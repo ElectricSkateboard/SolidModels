@@ -13,6 +13,3 @@ Contains 3d models for motor mount, gears etc.
 * The wheels : http://alienpowersystem.com/shop/cnc-kit/alien-power-wheel-83mm-78a/
 * Belt : http://alienpowersystem.com/shop/cnc-kit/htd-5-9mm-belt/
 
-ToDo:
-
-* Add scad file for the motor gear
